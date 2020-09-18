@@ -147,7 +147,7 @@ model
 result <- solve_model(model, with_ROI(solver = "glpk", verbose = TRUE, tm_limit = 1000*3600))
 sink()
 ```
-###Refine solver Report for near optimal solution
+### Refine solver Report for near optimal solution
 
 We report the optimality gap for the near optimal solution using the string saved in `OptimalityGap3`.
 
@@ -159,6 +159,8 @@ endPercentage<-str_locate(my_txt_ex2,"%")[1,2]
 OptimalityGap<-substring(my_txt_ex2, startPercentage-4, endPercentage)
 OptimalityGap3<-paste("Near optimal with optimality gap of", OptimalityGap)
 ```
+
+###  Present solution
 
 ```{r solution, eval=FALSE}
 
