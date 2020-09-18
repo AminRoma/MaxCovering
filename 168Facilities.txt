@@ -1,0 +1,168 @@
+1	13	Texarkana Welcome Center
+2	45	Marion City Rest Area
+3	56	White River Rest Area
+4	57	Hilton Rest Area Northbound
+5	60	Gurdon Rest Area Eastbound
+6	63	Mayflower Rest Area
+7	79	Forrest City Rest Area Eastbound
+8	90	Van Buren Welcome Center
+9	92	Ozark Rest Area Eastbound
+10	98	Social Hill Rest Area
+11	104	Bardstown Rest Area Southbound
+12	114	White River Rest Area
+13	116	Gurdon Rest Area Westbound
+14	119	Mayflower Truck Parking Area
+15	123	Blythville Welcome Center
+16	135	Forrest City Rest Area Westbound
+17	139	Ozark Rest Area Westbound
+18	481	West Memphis Welcome Area
+19	AR003	Pilot Travel Center #492
+20	AR007	E-Z Mart #721 (Shell)
+21	AR010	TA Earle #033
+22	AR011	Red River Truck Stop
+23	AR018	Exxon Auto/Truck Center #101
+24	AR019	JJ's Truck Stop
+25	AR024	Truckomat
+26	AR025	Petro North Little Rock #326 (Shell)
+27	AR029	65 - 81 Truck Stop (Citgo)
+28	AR037	Pilot Travel Center #429
+29	AR042	Pit Stop (BP)
+30	AR043	Fordyce Quick Mart (Gulf)
+31	AR044	White Oak #15 (Shell)
+32	AR045	Shell Fuel Stop #84
+33	AR050	Superstop #80 (Shell)
+34	AR051	Fast Market #36 (Citgo)
+35	AR054	Country Express (66)
+36	AR057	Filling Station (Citgo)
+37	AR062	Sumac Mart (Valero)
+38	AR201	Littlefield Express
+39	AR202	New Shell Lake Travel Center (Valero)
+40	AR204	Morgan Truck Stop (Shell)
+41	AR206	Exit 44 Quick Mart
+42	AR208	Pilot Travel Center #430
+43	AR301	Love's Travel Stop #236
+44	AR302	Petro West Memphis #311
+45	AR602	Marty Mart #12 (Citgo)
+46	AR604	Pit Stop (Shell)
+47	AR607	Bailey's Super Store (Conoco)
+48	AR608	Southfork Truck Stop (Citgo)
+49	AR610	I-40 Kwik Stop (Citgo)
+50	AR615	Wycamp Truck Stop (Conoco)
+51	AR616	Sweet Pea #401
+52	AR617	Exxon Super Station
+53	AR716	Shell #3
+54	AR727	Missile Mart #08 (Mobil)
+55	AR728	Break Time (Valero)
+56	AR729	Expressway (Mobil)
+57	AR735	E-Z Mart # 39
+58	AR774	Teddy Bears #6
+59	AR777	Camp I-30 Truck Stop
+60	AR784	Wynne Truck Plaza (66)
+61	AR786	PJ's Country Store #4 (BP)
+62	AR787	Love's Travel Stop #450
+63	AR790	Jordan's Kwik Stop #6 (66)
+64	AR792	Superstop #469 (66)
+65	AR793	Flash Market #017 (Citgo)
+66	AR794	Winner's Circle # 1 (66)
+67	AR797	Tiger Mart #102 (Exxon)
+68	AR798	Doublebee's (Conoco)
+69	AR799	Scott Petroleum
+70	AR804	Flying J Travel Plaza #606
+71	AR806	Mapco Express #3154
+72	AR807	Gasoline Alley
+73	AR808	Quick Draw (Exxon)
+74	AR811	PDQ #247 (66)
+75	AR812	Big Red (Valero)
+76	AR813	Morgan Valero #471
+77	AR814	Jordan's Kwik Stop #15 (Shell)
+78	AR816	Flying J Travel Plaza #607
+79	AR817	Roadway Food Mart #3 (Exxon)
+80	AR818	Road Mart (Exxon)
+81	AR822	Powell's One Stop
+82	AR823	Corner Store #1791 (Valero)
+83	AR825	Big Red #121 (Valero)
+84	AR826	Fast Trax #7 (Conoco)
+85	AR828	Love's Travel Stop #267
+86	AR829	Pilot Travel Center #332
+87	AR830	Paramount Travel Center (Valero)
+88	AR831	Flying J Travel Plaza #605
+89	AR833	Love's Travel Stop #271
+90	AR835	Hard Hat #7 (Exxon)
+91	AR836	Snappy Mart #19 (Exxon)
+92	AR839	Snappy Mart #23 (Exxon)
+93	AR843	Pilot Travel Center #145
+94	AR844	Alma Travel Mart (Valero)
+95	AR845	Hwy 109 Truck Plaza
+96	AR846	Flash Market # 46 (Citgo)
+97	AR847	Family Stop #3 (66)
+98	AR848	Gas N Go (Valero)
+99	AR852	PDQ - South (66)
+100	AR855	Flash Market # 32 (Shell)
+101	AR858	On The Run (Exxon)
+102	AR859	Missile Mart #09 (Exxon)
+103	AR860	Citgo Convenience #389
+104	AR861	Gas Mart
+105	AR862	Conoco 1 Stop
+106	AR863	Ward's Fuel Stop (BP)
+107	AR865	Shell Truck Stop
+108	AR868	Love's Travel Stop #275
+109	AR869	Snappy Mart # 7 (Exxon)
+110	AR870	Exxon Travel Center
+111	AR871	Magnolia Travel Center (Valero)
+112	AR873	Flash Market # 23 (Citgo)
+113	AR874	Tigermart Auto/Truck Center #107 (Exxon)
+114	AR876	E-Z Mart #425 (Shell)
+115	AR877	Kum & Go #0379
+116	AR879	Quick Draw #6 (Citgo)
+117	AR880	Flash Market #104 (Citgo)
+118	AR887	E-Z Mart #432 (Shell)
+119	AR888	Love's Travel Stop #277
+120	AR889	71 Express (Shell)
+121	AR895	Pilot Travel Center #118
+122	AR896	Hob Nob Shell
+123	AR897	Flash Market #177 (Citgo)
+124	AR898	TA Prescott #224
+125	AR899	Flash Market # 49 (Citgo)
+126	AR900	Exit 57 Auto/Truck Express (Shell)
+127	AR901	Colt's Quick Draw (Mobil)
+128	AR903	Flash Market #  7 (Citgo)
+129	AR904	Hermitage Shell
+130	AR906	Cash's Travel Plaza (Citgo)
+131	AR908	Tobo's 66
+132	AR909	Kings River Country Store
+133	AR912	Newport Truck Plaza (Exxon)
+134	AR914	Corner Store #1796 (Valero)
+135	AR915	Missile Mart #10 (Mobil)
+136	AR917	Bald Knob Travel Center (66)
+137	AR918	Blackwell Travel Center (Citgo)
+138	AR919	Hilltop Travel Center (Shell)
+139	AR921	Corner Store #1779 (Valero)
+140	AR922	Love's Travel Stop #457
+141	AR923	8 Mile Store
+142	AR924	Hawg's Exxon
+143	AR925	Flash Market #391 (Citgo)
+144	AR926	Forest Tower Food Mart I (Shell)
+145	AR927	Big Red (Valero)
+146	AR928	Corner Store #1789 (Valero)
+147	AR929	White Oak Station #38 (Shell)
+148	AR930	Kum & Go #0414
+149	AR931	Kwik Serv #1 (Valero)
+150	AR932	The I-40 Travel Center (Valero)
+151	AR933	North Point (Valero)
+152	AR934	Doublebee's #140 (Conoco)
+153	AR935	Scotty's (66)
+154	AR937	T Ricks (Citgo)
+155	AR938	West 66 Food Mart (Valero)
+156	AR939	Hillbilly U-Pump
+157	AR940	Rick's (Valero)
+158	AR941	Stop N By #17 (Exxon)
+159	AR943	Red Mule Mart
+160	AR944	FG Express #3 (Citgo)
+161	AR945	D J's Convenient Store
+162	AR946	Corner Store #1795 (Valero)
+163	AR947	Circle K #35 (Exxon)
+164	AR948	Corner Store #1783 (Valero)
+165	AR949	Corner Store #1787 (Valero)
+166	AR950	Corner Store #1772 (Valero)
+167	AR951	Love's Travel Stop #557
+168	AR952	Love's Travel Stop #607

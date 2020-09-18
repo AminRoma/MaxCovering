@@ -1,0 +1,176 @@
+1	CS1228	Prescott Industrial Park
+2	CS1244	SEA001-Benton
+3	CS1250	SEA008
+4	CS1290	Guaranty Site - I-40 Interstate Frontage
+5	CS1338	Interstate 40 Clarksville Business Park
+6	CS1346	Maumelle Commercial Park
+7	CS1349	Gillette/Stuckey (OS14)
+8	CS1397	Guaranty Loan Industrial Park
+9	CS14378	West Memphis I-40 Megasite
+10	CS1451	Millwood Commerical
+11	CS14656	Airport Road Site
+12	CS1487	Barling Site
+13	CS14877	McBride Farms
+14	CS14894	Goldsby North Site
+15	CS14936	Uptown District - Commercial Development Area
+16	CS15115	Covington Commercial Dave Ward Park - Rear Lots
+17	CS1635	NE of Lindsey Rd and Foursche Dam Pike
+18	CS16389	12 Acres on Highway 279
+19	CS16662	Commercial lot.
+20	CS16672	Lindsey Road North Site
+21	CS2097	406 Highway 64 E
+22	CS2218	Peck Addition properties
+23	CS2235	Bluff View
+24	CS2239	2900 Fayetteville Road
+25	CS2252	Blytheville Interstate Site
+26	CS2262	Cliff Drive and Old Greenwood Road
+27	CS2271	206 SE 4th St
+28	CS2352	16.50 Acres 10601 Stagecoach Rd
+29	CS2354	16 Acres Otter Creek Rd and I-30
+30	CS2358	Miller Property
+31	CS2379	16.50 Acres SE of I-530 and Highway 63
+32	CS2411	Russellville Village Centre
+33	CS2421	River Valley Auto Park
+34	CS2474	Galloway and I-40 North Little Rock Tract 1
+35	CS2478	Galloway and I 40 North Little Rock Tract 12
+36	CS2515	NW of Crystal Hill Rd and Standridge Rd
+37	CS2551	12 Acres Wildwood Ave and Highway 67
+38	CS2574	21286 I-30
+39	CS2592	15.70 Re-Development
+40	CS2623	10004 Highway 5 12.78 Acres
+41	CS500	Proposed facility 1
+42	CS600	Proposed facility 2
+43	CS1228	Prescott Industrial Park
+44	CS1244	SEA001-Benton
+45	CS1250	SEA008
+46	CS1290	Guaranty Site - I-40 Interstate Frontage
+47	CS1338	Interstate 40 Clarksville Business Park
+48	CS1346	Maumelle Commercial Park
+49	CS1349	Gillette/Stuckey (OS14)
+50	CS1397	Guaranty Loan Industrial Park
+51	CS14378	West Memphis I-40 Megasite
+52	CS1451	Millwood Commerical
+53	CS14656	Airport Road Site
+54	CS1487	Barling Site
+55	CS14877	McBride Farms
+56	CS14894	Goldsby North Site
+57	CS14936	Uptown District - Commercial Development Area
+58	CS15115	Covington Commercial Dave Ward Park - Rear Lots
+59	CS1635	NE of Lindsey Rd and Foursche Dam Pike
+60	CS16389	12 Acres on Highway 279
+61	CS16662	Commercial lot.
+62	CS16672	Lindsey Road North Site
+63	CS2097	406 Highway 64 E
+64	CS2218	Peck Addition properties
+65	CS2235	Bluff View
+66	CS2239	2900 Fayetteville Road
+67	CS2252	Blytheville Interstate Site
+68	CS2262	Cliff Drive and Old Greenwood Road
+69	CS2271	206 SE 4th St
+70	CS2352	16.50 Acres 10601 Stagecoach Rd
+71	CS2354	16 Acres Otter Creek Rd and I-30
+72	CS2358	Miller Property
+73	CS2379	16.50 Acres SE of I-530 and Highway 63
+74	CS2411	Russellville Village Centre
+75	CS2421	River Valley Auto Park
+76	CS2474	Galloway and I-40 North Little Rock Tract 1
+77	CS2478	Galloway and I 40 North Little Rock Tract 12
+78	CS2515	NW of Crystal Hill Rd and Standridge Rd
+79	CS2551	12 Acres Wildwood Ave and Highway 67
+80	CS2574	21286 I-30
+81	CS2592	15.70 Re-Development
+82	CS2623	10004 Highway 5 12.78 Acres
+83	CS500	Proposed facility 1
+84	CS600	Proposed facility 2
+85	CS1228	Prescott Industrial Park
+86	CS1244	SEA001-Benton
+87	CS1250	SEA008
+88	CS1290	Guaranty Site - I-40 Interstate Frontage
+89	CS1338	Interstate 40 Clarksville Business Park
+90	CS1346	Maumelle Commercial Park
+91	CS1349	Gillette/Stuckey (OS14)
+92	CS1397	Guaranty Loan Industrial Park
+93	CS14378	West Memphis I-40 Megasite
+94	CS1451	Millwood Commerical
+95	CS14656	Airport Road Site
+96	CS1487	Barling Site
+97	CS14877	McBride Farms
+98	CS14894	Goldsby North Site
+99	CS14936	Uptown District - Commercial Development Area
+100	CS15115	Covington Commercial Dave Ward Park - Rear Lots
+101	CS1635	NE of Lindsey Rd and Foursche Dam Pike
+102	CS16389	12 Acres on Highway 279
+103	CS16662	Commercial lot.
+104	CS16672	Lindsey Road North Site
+105	CS2097	406 Highway 64 E
+106	CS2218	Peck Addition properties
+107	CS2235	Bluff View
+108	CS2239	2900 Fayetteville Road
+109	CS2252	Blytheville Interstate Site
+110	CS2262	Cliff Drive and Old Greenwood Road
+111	CS2271	206 SE 4th St
+112	CS2352	16.50 Acres 10601 Stagecoach Rd
+113	CS2354	16 Acres Otter Creek Rd and I-30
+114	CS2358	Miller Property
+115	CS2379	16.50 Acres SE of I-530 and Highway 63
+116	CS2411	Russellville Village Centre
+117	CS2421	River Valley Auto Park
+118	CS2474	Galloway and I-40 North Little Rock Tract 1
+119	CS2478	Galloway and I 40 North Little Rock Tract 12
+120	CS2515	NW of Crystal Hill Rd and Standridge Rd
+121	CS2551	12 Acres Wildwood Ave and Highway 67
+122	CS2574	21286 I-30
+123	CS2592	15.70 Re-Development
+124	CS2623	10004 Highway 5 12.78 Acres
+125	CS500	Proposed facility 1
+126	CS600	Proposed facility 2
+127	13	Texarkana Welcome Center
+128	45	Marion City Rest Area
+129	114	White River Rest Area
+130	139	Ozark Rest Area Westbound
+131	481	West Memphis Welcome Area
+132	AR007	E-Z Mart #721 (Shell)
+133	AR019	JJ's Truck Stop
+134	AR029	65 - 81 Truck Stop (Citgo)
+135	AR051	Fast Market #36 (Citgo)
+136	AR057	Filling Station (Citgo)
+137	AR062	Sumac Mart (Valero)
+138	AR206	Exit 44 Quick Mart
+139	AR208	Pilot Travel Center #430
+140	AR604	Pit Stop (Shell)
+141	AR608	Southfork Truck Stop (Citgo)
+142	AR616	Sweet Pea #401
+143	AR727	Missile Mart #08 (Mobil)
+144	AR777	Camp I-30 Truck Stop
+145	AR790	Jordan's Kwik Stop #6 (66)
+146	AR797	Tiger Mart #102 (Exxon)
+147	AR806	Mapco Express #3154
+148	AR807	Gasoline Alley
+149	AR822	Powell's One Stop
+150	AR833	Love's Travel Stop #271
+151	AR839	Snappy Mart #23 (Exxon)
+152	AR847	Family Stop #3 (66)
+153	AR848	Gas N Go (Valero)
+154	AR861	Gas Mart
+155	AR862	Conoco 1 Stop
+156	AR865	Shell Truck Stop
+157	AR868	Love's Travel Stop #275
+158	AR869	Snappy Mart # 7 (Exxon)
+159	AR870	Exxon Travel Center
+160	AR871	Magnolia Travel Center (Valero)
+161	AR900	Exit 57 Auto/Truck Express (Shell)
+162	AR901	Colt's Quick Draw (Mobil)
+163	AR904	Hermitage Shell
+164	AR906	Cash's Travel Plaza (Citgo)
+165	AR908	Tobo's 66
+166	AR912	Newport Truck Plaza (Exxon)
+167	AR914	Corner Store #1796 (Valero)
+168	AR915	Missile Mart #10 (Mobil)
+169	AR917	Bald Knob Travel Center (66)
+170	AR923	8 Mile Store
+171	AR927	Big Red (Valero)
+172	AR928	Corner Store #1789 (Valero)
+173	AR938	West 66 Food Mart (Valero)
+174	AR941	Stop N By #17 (Exxon)
+175	AR943	Red Mule Mart
+176	AR952	Love's Travel Stop #607
