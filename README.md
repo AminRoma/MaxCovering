@@ -165,9 +165,14 @@ if (result$objective_value >0 & result$objective_value <1 & result[["status"]] =
   result[["status"]] = "opt"
   cat("reduce maximum budget from $", max_budget, "\n")
 }
+````
 
+### Debug solver for very high maximum budget and unused resources.
 
-# Reduce budget to find solution. If the maximum budget in the model is too high, then in this while loop we reduce it to a reasonable amount to avoid ompr or glpk bug.
+We observe that when the budget is very high and an amount of budget remain unused while the demand is satisfied with a significant lower budget, the solver report infeasible. In this section we reduce budget behind scence to find a solutiono avoid ompr or glpk bug.
+
+```{r logfile2, eval=FALSE}
+
 while(result[["status"]]=="opt"){
   
   rm(model)
@@ -211,7 +216,7 @@ while(result[["status"]]=="opt"){
 
 ```
 
-###  Present solution
+###  Make data ready for presenting solution
 
 ```{r solution, eval=FALSE}
 
@@ -264,7 +269,11 @@ x1<-filter(soln.x, soln.x$i <  43  & soln.x$value!=0)
 x2<-filter(soln.x, soln.x$i >= 43  & soln.x$i<=85 & soln.x$value!=0)
 x3<-filter(soln.x, soln.x$i >= 85  & soln.x$i<=126 & soln.x$value!=0)
 x4<-filter(soln.x, soln.x$i >= 127 & soln.x$value!=0)
+```
 
+###  Create report
+
+```{r report, eval=FALSE}
 
 # 0 if report based on name and 1 if we report based on ID
 Report<-1
