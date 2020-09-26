@@ -167,9 +167,9 @@ if (result$objective_value >0 & result$objective_value <1 & result[["status"]] =
 }
 ````
 
-### Debug solver for very high maximum budget and unused resources.
+### Debug solver for very high maximum budget and unused resources
 
-We observe that when the budget is very high and an amount of budget remain unused while the demand is satisfied with a significant lower budget, the solver report infeasible. In this section we reduce budget behind scence to find a solutiono avoid ompr or glpk bug.
+We observe that when the budget is very high and an amount of budget remain unused while the demand is satisfied with a significant lower budget, the solver report infeasible. In this section we reduce budget behind scence to find a solution and avoid ompr or glpk bug.
 
 ```{r logfile2, eval=FALSE}
 
